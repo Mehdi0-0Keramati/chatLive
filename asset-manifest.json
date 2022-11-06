@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chatLive/static/css/main.8af218ee.css",
+    "main.js": "/chatLive/static/js/main.5c31a041.js",
+    "static/media/bg2.jpg": "/chatLive/static/media/bg2.83910c761c2c1ce591f2.jpg",
+    "static/media/Messagebg.webp": "/chatLive/static/media/Messagebg.6741aa7040aba634b22e.webp",
+    "static/media/Vazir-Black.ttf": "/chatLive/static/media/Vazir-Black.88dbe0e03df0e3071026.ttf",
+    "static/media/CentraNo2-Bold.ttf": "/chatLive/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "index.html": "/chatLive/index.html",
+    "main.8af218ee.css.map": "/chatLive/static/css/main.8af218ee.css.map",
+    "main.5c31a041.js.map": "/chatLive/static/js/main.5c31a041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af218ee.css",
+    "static/js/main.5c31a041.js"
+  ]
+}
